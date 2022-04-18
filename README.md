@@ -1,7 +1,7 @@
-## Hi 👋, I'm Kavita Bhatia
----
+### Hi 👋, I'm Kavita Bhatia
 
 
-## Languages and Tools:
+
+### Languages and Tools:
 
 
