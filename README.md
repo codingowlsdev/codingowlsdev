@@ -7,7 +7,7 @@ I am a Senior Fullstack developer with over 21 yrs of experience. Since Feb 2017
 <p align="left"> <a href="https://github.com/codingowlsdev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingowlsdev&title=Joined,Repositories,Commits,Followers&row=2&column=3&theme=onedark&margin-w=15&margin-h=15" alt="codingowlsdev" /></a> </p>
 
 #### **__TECHNOLOGIES__**
-<a href="https://soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://worldvectorlogo.com/logo/solidity" alt="solidity" width="40" height="40"/> </a> 
+<a href="https://soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" alt="solidity" width="40" height="40"/> </a> 
 
 
 <!--#### **__CERTIFICATIONS__** -->
