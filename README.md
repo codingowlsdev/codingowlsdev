@@ -6,14 +6,14 @@
 I am a Senior Fullstack developer with over 21 yrs of experience. Since Feb 2017 I have been working in the space of Blockchain Security. I have audited over 300+ contracts till date.
 <p align="left"> <a href="https://github.com/codingowlsdev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingowlsdev&title=Joined,Repositories,Commits,Followers&row=2&column=3&theme=onedark&margin-w=15&margin-h=15" alt="codingowlsdev" /></a> </p>
 
-#### **TECHNOLOGIES**
+#### **__TECHNOLOGIES__**
 
 
 
-#### **CERTIFICATIONS**
+#### **__CERTIFICATIONS__**
 
 
-#### **CONNECT WITH ME:**
+#### **__CONNECT WITH ME__**
 
 <p align="left">
 <a href="https://twitter.com/0xcodingowls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xcodingowls" height="20" width="30" /></a>
