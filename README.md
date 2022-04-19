@@ -2,6 +2,7 @@
 <h3><div align="center"><strong>Blockchain Security Researcher | Smart Contract Auditor</strong></div></h3>
 <h3><div align="center"> <img src="https://komarev.com/ghpvc/?username=codingowlsdev&label=Profile%20views&color=0e75b6&style=flat" alt="codingowlsdev" /> </div></h3>
 ---
+
 #### **__ABOUT ME__**
 I am a **Senior Fullstack Developer** with over 21 yrs of experience. 
 <p align="left"> <a href="https://github.com/codingowlsdev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingowlsdev&title=Joined,Repositories,Commits,Followers&row=2&column=3&theme=onedark&margin-w=15&margin-h=15" alt="codingowlsdev" /></a> </p>
