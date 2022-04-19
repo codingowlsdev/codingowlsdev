@@ -1,7 +1,6 @@
 <h3><div align="center"><strong>Hi 👋, I'm Kavita Bhatia</strong></div></h3>
 <h3><div align="center"><strong>Blockchain Security Researcher | Smart Contract Auditor</strong></div></h3>
 <h3><div align="center"> <img src="https://komarev.com/ghpvc/?username=codingowlsdev&label=Profile%20views&color=0e75b6&style=flat" alt="codingowlsdev" /> </div></h3>
-
 ___
 
 #### **__ABOUT ME__**
