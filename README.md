@@ -24,7 +24,6 @@ I am a Senior Fullstack developer with over 21 yrs of experience. Since Feb 2017
 </p>
 
 #### **__GITHUB__**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingowlsdev&show_icons=true&locale=en&layout=compact" alt="codingowlsdev" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingowlsdev&show_icons=true&locale=en" alt="codingowlsdev" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingowlsdev&" alt="codingowlsdev" /></p>
 
