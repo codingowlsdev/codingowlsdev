@@ -12,6 +12,9 @@ I am a Senior Fullstack developer with over 21 yrs of experience. Since Feb 2017
 
 #### **__CERTIFICATIONS__**
 
+#### **__FOLLOW ME__**
+
+<p align="left"> <a href="https://twitter.com/0xcodingowls" target="blank"><img src="https://img.shields.io/twitter/follow/0xcodingowls?logo=twitter&style=for-the-badge" alt="0xcodingowls" /></a> </p>
 
 #### **__CONNECT WITH ME__**
 
@@ -19,6 +22,11 @@ I am a Senior Fullstack developer with over 21 yrs of experience. Since Feb 2017
 <a href="https://twitter.com/0xcodingowls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xcodingowls" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/kb211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kb211" height="20" width="30" /></a>
 </p>
+
+#### **__GITHUB__**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingowlsdev&show_icons=true&locale=en&layout=compact" alt="codingowlsdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingowlsdev&show_icons=true&locale=en" alt="codingowlsdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingowlsdev&" alt="codingowlsdev" /></p>
 
   
  
