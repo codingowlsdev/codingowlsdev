@@ -7,10 +7,10 @@ I am a Senior Fullstack developer with over 21 yrs of experience. Since Feb 2017
 <p align="left"> <a href="https://github.com/codingowlsdev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingowlsdev&title=Joined,Repositories,Commits,Followers&row=2&column=3&theme=onedark&margin-w=15&margin-h=15" alt="codingowlsdev" /></a> </p>
 
 #### **__TECHNOLOGIES__**
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 
 
-
-#### **__CERTIFICATIONS__**
+<!--#### **__CERTIFICATIONS__** -->
 
 #### **__FOLLOW ME__**
 
@@ -23,9 +23,5 @@ I am a Senior Fullstack developer with over 21 yrs of experience. Since Feb 2017
 <a href="https://linkedin.com/in/kb211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kb211" height="20" width="30" /></a>
 </p>
 
-#### **__GITHUB__**
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingowlsdev&show_icons=true&locale=en" alt="codingowlsdev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingowlsdev&" alt="codingowlsdev" /></p>
 
-  
  
