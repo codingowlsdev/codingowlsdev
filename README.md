@@ -6,9 +6,7 @@
 ___
 
 #### **__ABOUT ME__** 
-
- 
-<p align="left"><a href="https://github.com/codingowlsdev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingowlsdev&title=Joined,Repositories,Commits,Followers&row=2&column=3&theme=onedark&margin-w=15&margin-h=15" alt="codingowlsdev" /></a> </p>
+#### AUDITS DONE
 
 ___
 
