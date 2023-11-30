@@ -7,7 +7,7 @@ ___
 
 #### **__ABOUT ME__** 
 
-I am a **Senior Fullstack Developer** with over 21 yrs of experience. 
+ 
 <p align="left"><a href="https://github.com/codingowlsdev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingowlsdev&title=Joined,Repositories,Commits,Followers&row=2&column=3&theme=onedark&margin-w=15&margin-h=15" alt="codingowlsdev" /></a> </p>
 
 ___
@@ -19,7 +19,7 @@ ___
 <!--#### **__CERTIFICATIONS__** -->
 
 #### **__FOLLOW ME__**
-<p align="left"> <a href="https://twitter.com/0xcodingowls" target="blank"><img src="https://img.shields.io/twitter/follow/0xcodingowls?logo=twitter&style=for-the-badge" alt="0xcodingowls" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xscaudits" target="blank"><img src="https://img.shields.io/twitter/follow/0xcodingowls?logo=twitter&style=for-the-badge" alt="0xscaudits" /></a> </p>
 
 ___
 #### **__CONNECT WITH ME__**
