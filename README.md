@@ -12,6 +12,7 @@ ___
 
 #### **__SKILLS__**
 <a href="https://soliditylang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" alt="solidity" width="40" height="40"/> </a> 
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="[https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg](https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg)" alt="rust" width="40" height="40"/> </a> 
 
 ___
 <!--#### **__CERTIFICATIONS__** -->
