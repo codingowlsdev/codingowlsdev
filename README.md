@@ -12,7 +12,7 @@ Hey there! Welcome to my corner of the blockchain universe. I'm passionate about
 
 🚀 On this GitHub, you'll find a mix of security audits, vulnerability disclosures, and tools designed to enhance the security posture of decentralized ecosystems. Let's collaborate, share insights, and build a safer decentralized future together!
 
-💼 Audit Services:
+**__Audit Services__**:
 - Smart Contract Audit
 - Protocol Audit
 - Penetration Testing
