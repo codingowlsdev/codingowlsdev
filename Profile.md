@@ -13,9 +13,10 @@ On this GitHub, you'll find a mix of security audits, vulnerability disclosures,
 
 **__Audit Services__**:
 - Smart Contract Security Reviews 
-- Fuzzing and Formal Verification for your protocol - We use Foundry and Echidna/Medusa (Fuzzing) and Halmos, Kontrol and ityFuzz (FV)
+- Fuzzing - Foundry and Echidna/Medusa 
+- Formal Verification for your protocol - Halmos, Kontrol, and ityFuzz 
 
-Reach out if you're interested in discussing security research, collaborating on projects, or simply geeking out about blockchain technology. 
+Reach out if you're interested in discussing security research, or collaborating on the project. 
 
 #### AUDITS DONE
 ___
