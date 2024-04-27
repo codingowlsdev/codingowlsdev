@@ -21,36 +21,63 @@ Reach out if you're interested in discussing security research, or collaborating
 #### SOLO AUDITS DONE 
 ___
 
-|  NAME                            |  CLIENT            |
-| -------------------------------- | ------------------ |
-|  Iagon TGE Smart Contract        | Experfy            |
-|  Bezant                          | Experfy            |
-|  Brick4Us                        | Experfy            |
-|  CrytoScience                    | Experfy            |
-|  IOEX                            | Experfy            |
-|  Men@workz Smart Contract        | Experfy            |
-|  Men@Workz Wallet                | Experfy            |
-| FortUnity                        | Solidified         |
-| Bills of Exchange Factory        | Callisto Network   |
-| Holo Token                       | Callisto Network   |
-| UCOIN                            | Callisto Network   |
-| Beyond Finance                   | Entersoft Security |
-| FightCoin                        | Entersoft Security |
-| Penguin Finance                  | Entersoft Security |
-| The People Reserve               | Entersoft Security |
-
-
+| SR  |  NAME                                              |  CLIENT            |
+| --- | -------------------------------------------------- | ------------------ |
+| 1   | Iagon TGE Smart Contract                           | Experfy            |
+| 2   | Bezant                                             | Experfy            |
+| 3   | Brick4Us                                           | Experfy            |
+| 4   | CrytoScience                                       | Experfy            |
+| 5   | IOEX                                               | Experfy            |
+| 6   | Men@workz Smart Contract                           | Experfy            |
+| 7   | Men@Workz Wallet                                   | Experfy            |
+| 8   | FortUnity                                          | Solidified         |
+| 9  | Bills of Exchange Factory                          | Callisto Network   |
+| 10  | Holo Token                                         | Callisto Network   |
+| 11  | UCOIN                                              | Callisto Network   |
+| 12  | Beyond Finance                                     | Entersoft Security |
+| 13  | FightCoin                                          | Entersoft Security |
+| 14  | Penguin Finance                                    | Entersoft Security |
+| 15  | The People Reserve                                 | Entersoft Security |
+| 16  | Yfuni Finance                                      | QuillAudits        |
+| 17  | OpenDao Vesting                                    | QuillAudits        |
+| 18  | Yearn Finance                                      | QuillAudits        |
+| 19  | DIGITALAX                                          | QuillAudits        |
+| 20  | Centralex Exchange                                 | QuillAudits        |
+| 21  | Delta Exchange                                     | QuillAudits        | 
+| 22  | AlgoVest                                           | QuillAudits        | 
+| 23  | Unifarmv4                                          | QuillAudits        | 
+| 24  | YFUNI - uEarn                                      | QuillAudits        |
+| 25  | Passive Income Bot                                 | QuillAudits        |
+| 26  | TriForce TFCPOOL                                   | QuillAudits        |
+| 27  | Turus Network                                      | QuillAudits        |
+| 28  | Yearn Agnostic                                     | QuillAudits        |
+| 29  | BTC Relay Review                                   | QuillAudits        |
+| 30  | Spherium                                           | QuillAudits        |
+| 31  | BCUBE-I                                            | QuillAudits        |
+| 32  | Unifarm Vesting                                    | QuillAudits        |
+| 33  | Orijin Finance                                     | QuillAudits        |
+| 34  | Yearn Agnostic - Strategies and Bridges            | QuillAudits        |
+| 35  | Prism Network                                      | QuillAudits        |
+| 36  | Aavegotchi                                         | Pixelcraft         |
+| 37  | PayAccept                                          | PayAccept          |
+| 38  | Rubicon Protocol                                   | Rubicon            |
+| 39  | Power Coin - PCOIN                                 | Power Corp         |
+| 40  | DSCVR-I                                            | DSCVR Finance      |
+| 41  | DSCVR Token                                        | DSCVR Finance      |
+| 42  | AST Upgradable Market Smart Contract               | AST                |
+| 43  | NOW LAMBO Token                                    | NOW LAMBO          |
+| 44  | Analog Token                                       | ZilloIndustries    |
 
 <!--#### **__CERTIFICATIONS__** -->
 
 #### CONTESTS 
 ___
 
-| NAME     | PLATFORM  | FINDINGS  | REPORT | HANDLE |
-| -------- | --------- | --------- | ------ | ------ |
-|          |           |           |        |        |
-|          |           |           |        |        | 
-|          |           |           |        |        |
+| NAME                                   | PLATFORM            | FINDINGS                    | REPORT            | HANDLE        |
+| -------------------------------------- | ------------------- | --------------------------- | ----------------- | ------------- |
+|                                        |                     |                             |                   |               |
+|                                        |                     |                             |                   |               | 
+|                                        |                     |                             |                   |               |
 
 
 #### **__FOLLOW ME__**
