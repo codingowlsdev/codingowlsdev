@@ -18,10 +18,31 @@ On this GitHub, you'll find a mix of security audits, vulnerability disclosures,
 
 Reach out if you're interested in discussing security research, or collaborating on the project. 
 
-#### AUDITS DONE
+#### SOLO AUDITS DONE 
 ___
 
+|  NAME                            |  CLIENT        |
+| -------------------------------- | -------------- |
+|  Iagon TGE Smart Contract        |   Experfy      |
+|  Bezant                          |   Experfy      |
+|  Brick4Us                        |   Experfy      |
+|  CrytoScience                    |   Experfy      |
+|  IOEX                            |   Experfy      |
+|  Men@workz Smart Contract        |   Experfy      |
+|  Men@Workz Wallet                |    Experfy     |
+
+
 <!--#### **__CERTIFICATIONS__** -->
+
+#### CONTESTS 
+___
+
+| NAME     | PLATFORM  | FINDINGS  | REPORT | HANDLE |
+| -------- | --------- | --------- | ------ | ------ |
+|          |           |           |        |        |
+|          |           |           |        |        | 
+|          |           |           |        |        |
+
 
 #### **__FOLLOW ME__**
 <p align="left"> <a href="https://twitter.com/0xscaudits" target="blank"><img src="https://img.shields.io/twitter/follow/0xscaudits?logo=twitter&style=for-the-badge" alt="0xscaudits" /></a> </p>
