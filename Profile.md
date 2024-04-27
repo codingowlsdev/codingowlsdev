@@ -21,15 +21,24 @@ Reach out if you're interested in discussing security research, or collaborating
 #### SOLO AUDITS DONE 
 ___
 
-|  NAME                            |  CLIENT        |
-| -------------------------------- | -------------- |
-|  Iagon TGE Smart Contract        |   Experfy      |
-|  Bezant                          |   Experfy      |
-|  Brick4Us                        |   Experfy      |
-|  CrytoScience                    |   Experfy      |
-|  IOEX                            |   Experfy      |
-|  Men@workz Smart Contract        |   Experfy      |
-|  Men@Workz Wallet                |    Experfy     |
+|  NAME                            |  CLIENT            |
+| -------------------------------- | ------------------ |
+|  Iagon TGE Smart Contract        | Experfy            |
+|  Bezant                          | Experfy            |
+|  Brick4Us                        | Experfy            |
+|  CrytoScience                    | Experfy            |
+|  IOEX                            | Experfy            |
+|  Men@workz Smart Contract        | Experfy            |
+|  Men@Workz Wallet                | Experfy            |
+| FortUnity                        | Solidified         |
+| Bills of Exchange Factory        | Callisto Network   |
+| Holo Token                       | Callisto Network   |
+| UCOIN                            | Callisto Network   |
+| Beyond Finance                   | Entersoft Security |
+| FightCoin                        | Entersoft Security |
+| Penguin Finance                  | Entersoft Security |
+| The People Reserve               | Entersoft Security |
+
 
 
 <!--#### **__CERTIFICATIONS__** -->
