@@ -8,48 +8,18 @@ ___
 #### **__ABOUT ME__** 
 Hey there! Welcome to my corner of the blockchain universe. I'm passionate about exploring the intersection of security and decentralization, diving deep into the cryptographic protocols and smart contracts that power the Web3 revolution.
 
-🔒 As a security researcher, I'm constantly probing for vulnerabilities in blockchain networks, smart contracts, and decentralized applications (dApps). My mission is to strengthen the foundation of Web3, ensuring that it's not only innovative but also resilient against emerging threats.
-
-🚀 On this GitHub, you'll find a mix of security audits, vulnerability disclosures, and tools designed to enhance the security posture of decentralized ecosystems. Let's collaborate, share insights, and build a safer decentralized future together!
+As a security researcher, I'm constantly probing for vulnerabilities in blockchain networks, smart contracts, and decentralized applications (dApps). 
+On this GitHub, you'll find a mix of security audits, vulnerability disclosures, and tools designed to enhance the security posture of decentralized ecosystems. Let's collaborate, share insights, and build a safer decentralized future together!
 
 **__Audit Services__**:
-- Smart Contract Audit
-- Protocol Audit
-- Penetration Testing
-- Formal Verification
-- Tokenomics Audit
-- GameFI/P2E Audit
-- Bridge Audit
-- DEX Audit
+- Smart Contract Security Reviews 
+- Fuzzing and Formal Verification for your protocol - We use Foundry and Echidna/Medusa (Fuzzing) and Halmos, Kontrol and ityFuzz (FV)
 
-📫 Reach out if you're interested in discussing security research, collaborating on projects, or simply geeking out about blockchain technology. 
+Reach out if you're interested in discussing security research, collaborating on projects, or simply geeking out about blockchain technology. 
 
 #### AUDITS DONE
-
 ___
 
-#### **__ECOSYSTEMS__**
-- Ethereum
-- BSC
-- Avalanche
-- Polygon
-- Arbitrum
-- Optimism
-- Fantom
-- zkSync
-- Solana
-- Near
-- Polkadot
-- Cosmos
-- Flow
-- Tezos
-- Stellar
-
-#### **__LANGUAGES__**
-- Solidity
-- Rust
-- Vyper
-___
 <!--#### **__CERTIFICATIONS__** -->
 
 #### **__FOLLOW ME__**
